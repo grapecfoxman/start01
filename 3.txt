@@ -2,5 +2,9 @@ TEST
 
 변경
 
+<<<<<<< HEAD
 
 clone작업
+=======
+start 변경
+>>>>>>> 96d348a6ce7e44636211975dbb26eedd8264072e
